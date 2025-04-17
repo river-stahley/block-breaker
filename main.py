@@ -3,7 +3,7 @@ File name: main.py
 Author: River Stahley
 Created: 2025-04-15
 Version: 1.0
-Description: This script performs a specific task.
+Description: Block-Breaker is a Breakout clone created with Pygame.
 """
 
 import pygame
